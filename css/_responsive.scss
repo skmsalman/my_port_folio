@@ -1,0 +1,281 @@
+@media (max-width: 1200px) {
+  .left-side {
+    display: none;
+  }
+  nav.navbar {
+    display: block !important;
+  }
+  .what-do,
+  .portfolio-section-bottom,
+  .tab-section,
+  .pricing-section,
+  .client-section,
+  .contact-section,
+  .footer-section {
+    margin-left: 0 !important;
+  }
+  .right-side .what .row .col-12 .heading,
+  .portfolio-section-top .row .col-12 .heading {
+    left: 0 !important;
+    width: 100%;
+  }
+  .right-side #particles-js .woner {
+    transform: translateX(-37%);
+  }
+  .content #Education .header h3,
+  .wrapper .header h3,
+  #Experience .header h3,
+  #interview .header h3 {
+    font-size: 25px !important;
+  }
+  .inner1 {
+    padding-left: 24px;
+    margin-top: 44px;
+  }
+}
+@media (max-width: 991px) {
+  .inner1 {
+    padding-left: 20px;
+  }
+  .tab button {
+    font-size: 16px !important;
+  }
+  .box .des {
+    flex-wrap: wrap !important;
+  }
+  .box .gpa {
+    margin-top: 14px !important;
+  }
+}
+@media (max-width: 797px) {
+  .right-side #particles-js .woner .title h1 {
+    font-size: 30px !important;
+    margin-left: 0 !important;
+  }
+  .animated-text span {
+    font-size: 20px !important;
+    margin-left: 0 !important;
+  }
+  .element {
+    font-size: 20px !important;
+  }
+  .right-side #particles-js .woner .img {
+    width: 300px !important;
+    height: 300px !important;
+  }
+  .right-side #particles-js .woner::after {
+    width: 315px !important;
+    height: 315px !important;
+    top: -8px !important;
+    left: -7px !important;
+  }
+  .right-side #particles-js .woner .title button {
+    margin-left: 56px !important;
+  }
+  .right-side #particles-js .woner {
+    left: 46% !important;
+  }
+  .right-side #particles-js {
+    height: 650px !important;
+  }
+  .sticky {
+    margin-bottom: 30px !important;
+  }
+}
+@media (max-width: 767px) {
+  .inner1 {
+    padding-left: 27px !important;
+  }
+  .tab {
+    display: block;
+  }
+  .tab button {
+    display: block !important ;
+    width: 100%;
+  }
+  .client-section .heading,
+  .pricing-section .heading {
+    width: 100%;
+    text-align: center !important;
+  }
+  .right-side .what .row .col-12 .heading h2,
+  .portfolio-section-top .row .col-12 .heading h2,
+  .tab-section .container .row .col-12 .heading h2,
+  .client-section .container .row .col-12 .heading h2,
+  .pricing-section .container .row .col-md-4 .stick .heading h2,
+  .contact-section .container .row .col-12 .heading h2 {
+    text-align: center !important;
+  }
+  .contact-section .container .contact-form {
+    margin-left: 0 !important;
+    margin-top: 10px;
+  }
+}
+@media (max-width: 600px) {
+  .right-side #particles-js .woner {
+    left: 45% !important;
+  }
+  .right-side #particles-js .woner .img {
+    width: 270px !important;
+    height: 270px !important;
+  }
+  .right-side #particles-js .woner::after {
+    width: 282px !important;
+    height: 282px !important;
+    top: -6px !important;
+    left: -5px !important;
+  }
+  .right-side .what .row .col-12 .heading h2,
+  .portfolio-section-top .row .col-12 .heading h2,
+  .tab-section .container .row .col-12 .heading h2,
+  .client-section .container .row .col-12 .heading h2,
+  .pricing-section .container .row .col-md-4 .stick .heading h2,
+  .contact-section .container .row .col-12 .heading h2 {
+    font-size: 40px !important;
+    text-align: center !important;
+  }
+  .client-section .heading,
+  .pricing-section .heading {
+    width: 100%;
+    text-align: center !important;
+  }
+}
+@media (max-width: 576px) {
+  .right-side .what .row .col-12 .heading h2,
+  .portfolio-section-top .row .col-12 .heading h2 {
+    font-size: 40px !important;
+  }
+  .right-side .what {
+    margin-top: 64px;
+    margin-bottom: 33px;
+  }
+
+  .portfolio-section-bottom .container .row .col-md-4 .inner .footer-des a {
+    font-size: 19px !important;
+  }
+  .portfolio-section-top {
+    margin-bottom: 33px !important;
+  }
+  .tab-section .container .row .col-12 .heading h2 {
+    font-size: 40px !important;
+  }
+  .pricing-section .desc {
+    flex-wrap: wrap !important;
+  }
+  .pricing-section
+    .container
+    .row
+    .col-md-8
+    .price
+    .tabcon
+    .content
+    .desc
+    .title
+    .elementor,
+  .pricing-section
+    .container
+    .row
+    .col-md-8
+    .price
+    .tabcon
+    .content
+    .desc
+    .title
+    .text
+    p {
+    margin-bottom: 1rem !important;
+  }
+}
+@media (max-width: 515px) {
+  .right-side #particles-js .woner .title h1 {
+    font-size: 20px !important;
+    text-align: center;
+  }
+  .animated-text span {
+    font-size: 16px !important;
+    text-align: center;
+  }
+  .element {
+    font-size: 16px !important;
+  }
+  .right-side #particles-js .woner .img {
+    width: 230px !important;
+    height: 230px !important;
+  }
+  .right-side #particles-js .woner::after {
+    width: 245px !important;
+    height: 245px !important;
+    top: -8px !important;
+    left: -7px !important;
+  }
+  .right-side #particles-js .woner .title button {
+    margin-left: 36px !important;
+  }
+  .animated-text {
+    text-align: center;
+  }
+}
+@media (max-width: 488px) {
+  .portfolio-section-top .row .col-12 .heading h2,
+  .right-side .what .row .col-12 .heading h2,
+  .client-section .container .row .col-12 .heading h2,
+  .pricing-section .container .row .col-md-4 .stick .heading h2,
+  .contact-section .container .row .col-12 .heading h2,
+  .tab-section .container .row .col-12 .heading h2 {
+    font-size: 30px !important;
+  }
+}
+@media (max-width: 400px) {
+  .right-side #particles-js .woner {
+    left: 42% !important;
+  }
+}
+@media (max-width: 380px) {
+  .right-side .what .row .col-12 .heading p,
+  .portfolio-section-top .row .col-12 .heading p,
+  .tab-section .container .row .col-12 .heading p,
+  .client-section .container .row .col-12 .heading p,
+  .pricing-section .container .row .col-md-4 .stick .heading = p,
+  .contact-section .container .row .col-12 .heading p {
+    font-size: 10px !important;
+  }
+  .inner1 {
+    padding-left: 19px !important;
+  }
+}
+@media (max-width: 366px) {
+  .portfolio-section-top .row .col-12 .heading h2,
+  .right-side .what .row .col-12 .heading h2,
+  .client-section .container .row .col-12 .heading h2,
+  .pricing-section .container .row .col-md-4 .stick .heading h2,
+  .contact-section .container .row .col-12 .heading h2,
+  .tab-section .container .row .col-12 .heading h2 {
+    font-size: 24px !important;
+  }
+}
+@media (max-width: 350px) {
+  .right-side #particles-js .woner {
+    left: 40% !important;
+  }
+  .box .title h4 {
+    font-size: 17px;
+    line-height: 25px;
+  }
+  .box .title p {
+    font-size: 13px;
+  }
+  .box .description p {
+    font-size: 16px;
+    line-height: 23px;
+  }
+}
+@media (max-width: 334px) {
+  .box::before {
+    width: 28px !important;
+  }
+}
+@media (max-width: 340px) {
+  .box .title p {
+    font-size: 10px;
+  }
+}

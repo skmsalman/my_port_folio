@@ -1,0 +1,38 @@
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  list-style-type: none;
+  outline: none;
+}
+:any-link {
+  text-decoration: none;
+}
+//  font
+$monserutFont: "Montserrat", sans-serif;
+$poppinFont: "Poppins", sans-serif;
+$bodyColor: #ecf0f3;
+body {
+  background: $bodyColor;
+  height: 800vh;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+a {
+  font: {
+    family: $monserutFont;
+  }
+}
+p,
+span {
+  font: {
+    family: $poppinFont;
+  }
+}
